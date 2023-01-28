@@ -141,21 +141,28 @@ text-align: justify;
 
 color: #000000;
 }
-.img-rasm {
+
+
+/* dssssssd */
+.container-omzz{
     padding-top: 60px;
     display: flex;
     justify-content: space-between;
+    width: 1140px;
+    margin: 0 auto;
 }
-.q1{
-    transform: translate(0,-26px);
+ .img-rasm {
+    width: 49%;
 }
+.mmm{display: flex; justify-content: space-between;}
+
 .qqq111{
     width: 470px;
     margin-top: 113px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
+} 
 h3{
     font-family: 'Open Sans';
 font-style: normal;
@@ -166,5 +173,7 @@ line-height: 20px;
 color: #000000;
 }
 .w1{
+    width: 1140px;
+    margin: 0 auto;
     height: 5vh;
 }
