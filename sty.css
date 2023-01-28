@@ -99,3 +99,45 @@ text-transform: uppercase;
 
 color: #FFFFFF;
 }
+.form{
+    padding-top: 120px;
+}
+.form .container h1{
+    font-family: 'Anton';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 75px;
+text-transform: uppercase;
+
+color: #000000;
+}
+.form .container .container{
+    display: flex;
+    justify-content: space-between;
+}
+.ona-1 , .ona-2{
+    width: 49%;
+    background-color: aqua;
+}
+.h1{
+font-family: 'Anton';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 38px;
+text-transform: uppercase;
+
+color: #000000;
+} 
+.text-ona{
+    padding-top: 29px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: justify;
+
+color: #000000;
+}
