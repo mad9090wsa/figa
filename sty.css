@@ -118,7 +118,6 @@ color: #000000;
 }
 .ona-1 , .ona-2{
     width: 49%;
-    background-color: aqua;
 }
 .h1{
 font-family: 'Anton';
@@ -140,4 +139,9 @@ line-height: 26px;
 text-align: justify;
 
 color: #000000;
+}
+.img-rasm {
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-between;
 }
