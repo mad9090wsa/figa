@@ -147,7 +147,7 @@ color: #000000;
     justify-content: space-between;
 }
 .q1{
-    margin-top: -26px;
+    transform: translate(0,-26px);
 }
 .qqq111{
     width: 470px;
