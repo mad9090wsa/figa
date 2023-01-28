@@ -20,7 +20,7 @@ nav{
     padding-top: 30px;
     background-image: url(./img/header-bg.jpg);
     background-size: cover;
-    height: 900px;
+    height: 700px;
 }
 nav .container{
     display: flex;
@@ -60,4 +60,42 @@ color: #FFFFFF;
 .text-NOT{
     width: 1140px;
     margin: 250px auto; 
+}
+.text-1{
+    font-family: 'Anton';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.text-2{
+font-family: 'Anton';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 151px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.text-bun{
+    width: 238px;
+height: 57px;
+left: 216px;
+top: 521px;
+background-color: rgba(255, 0, 0, 0);
+border: 1px solid #FFFFFF;
+font-family: 'Anton';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #FFFFFF;
 }
