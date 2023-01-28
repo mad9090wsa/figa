@@ -117,6 +117,7 @@ color: #000000;
     justify-content: space-between;
 }
 .ona-1 , .ona-2{
+    padding-top: 40px;
     width: 49%;
 }
 .h1{
