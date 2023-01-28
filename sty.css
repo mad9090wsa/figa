@@ -146,3 +146,25 @@ color: #000000;
     display: flex;
     justify-content: space-between;
 }
+.q1{
+    margin-top: -26px;
+}
+.qqq111{
+    width: 470px;
+    margin-top: 113px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h3{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #000000;
+}
+.w1{
+    height: 5vh;
+}
